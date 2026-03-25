@@ -1,13 +1,16 @@
-# 👋 Olá, eu sou o Hugo Maia!
+# 👋 Olá, eu sou o Hugo Maia! 👨‍💻
+
+## 🙋‍♂️ Sobre mim 
 
 💻 Desenvolvedor de software em formação
 
 📍  Pinhais - PR, Brasil
 
+🙋‍♂️ Super-fã de 🖥️ Tecnologia // 🎮 Games // ⚽ Esportes 
+
 🚀 Buscando evolução constante através de projetos práticos!
 
-
-## 🧠 Formação
+## 👨‍🎓 Formação
 
 🎓 Análise e Desenvolvimento de Sistemas - UNINTER *(2025 - Cursando)*
 
